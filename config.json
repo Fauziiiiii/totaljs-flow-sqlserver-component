@@ -1,0 +1,3 @@
+{
+    "connectionString": "postgresql://postgres:postgresqljancok@localhost:5432/user_management"
+}

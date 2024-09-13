@@ -7,6 +7,12 @@
     "url": "https://github.com/totaljs/flow"
   },
   "dependencies": {
+    "@influxdata/influxdb-client": "^1.35.0",
+    "axios": "^1.7.5",
+    "dotenv": "^16.4.5",
+    "mssql": "^11.0.1",
+    "mysql": "^2.18.1",
+    "pg": "^8.12.0",
     "querybuilderpg": "^1.0.24",
     "total5": "latest"
   },

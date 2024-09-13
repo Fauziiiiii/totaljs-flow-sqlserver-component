@@ -1,0 +1,18 @@
+{
+	"notify": true,
+	"name": "Total.js Flow v10",
+	"env": "dev",
+	"components": "https://cdn.totaljs.com/flowstream/webcomponents/db.json",
+	"templates": "https://cdn.totaljs.com/flowstream/templates/db.json",
+	"token": "k6u1a9h0y5svkmw10rwziumvmnwe1c",
+	"bookmarks": [],
+	"components2": "",
+	"darkmode": true,
+	"op_reqtoken": "",
+	"op_restoken": "",
+	"user": {
+		"id": "IqD6ej1dU60f",
+		"login": "admin",
+		"password": "ea8708b00da755d201cc8603539bf75e07dcff107b939193a6607df295851038"
+	}
+}

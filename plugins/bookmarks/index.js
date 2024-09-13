@@ -9,7 +9,7 @@ exports.install = function() {
 
 	ROUTE('+API    ?    -bookmarks                 -->    Bookmarks/list');
 	ROUTE('+API    ?    +bookmarks_create          -->    Bookmarks/create');
-	ROUTE('+API    ?    +bookmarks_update          -->    Bookmarks/update');g
+	ROUTE('+API    ?    +bookmarks_update          -->    Bookmarks/update');
 	ROUTE('+API    ?    +bookmarks_remove          -->    Bookmarks/remove');
 
 };
